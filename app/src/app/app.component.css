@@ -1,0 +1,19 @@
+button
+{
+    padding: 0.5em;
+    color: white;
+    background: orangered;
+    border-style: none;
+    cursor: pointer;
+    margin-left: 2px;
+}
+.currencypipe,.datepipe,.numberpipes,.stringpipe,.percentpipe
+{
+    /* border: 1px solid gray; */
+    background: grey;
+    padding: 1em;
+}
+.currencypipe,.datepipe,.numberpipes,.stringpipe,.percentpipe
+{
+    border: 1px solid wheat;
+}
